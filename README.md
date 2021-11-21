@@ -30,6 +30,11 @@ Etape 1 :
         * Linear regression
         * Random Forest
         * SVM.SVR
+        
+        
+Piste d'amélioration :
+	-> Faire une imputation en amont du modèle c'est à dire, donner des valeurs moyennes pour chaque valeur nulle ou faible.
+	-> prendre en compte toute les données
        
        
       
